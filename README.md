@@ -1,4 +1,4 @@
-## Olá, sou a Bruna Araújo!
+## Olá, sou  Bruna Araújo!
 
 - 🔭 Atualmente sou estudante de desenvolvimento de software 
 - 👩🏻‍💻 Habilidades em Front-End
